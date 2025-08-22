@@ -29,7 +29,7 @@ public class SubstringCheck {
             System.out.println("Found sub-String: "+SubString);
         }
         else{
-            System.out.println("Sub-string now found");
+            System.out.println("Sub-string not found");
         }
     }
 }
