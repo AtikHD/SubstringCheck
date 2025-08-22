@@ -13,6 +13,8 @@ SubstringCheck is a simple Java program that allows users to check whether a giv
 1. Clone the repository.
 2. Compile the program:
 3. Run the program:
-🎥 Demo Output
 
+
+
+###🎥 Demo Output
 ![SubstringCheck Demo](SubstringCheck.gif)
